@@ -1,0 +1,26 @@
+runtime: php74
+#env: flex
+
+
+handlers:
+
+
+
+- url: /.*
+  script: index.php
+  
+- url:/.*
+  script: page1.php
+
+-
+  
+
+
+
+
+
+
+
+  
+    
+    
